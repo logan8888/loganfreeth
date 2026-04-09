@@ -1,0 +1,47 @@
+[
+  {
+    "id": "hm-001",
+    "slug": "oak-wave-wall-sculpture",
+    "title": "Oak Wave Wall Sculpture",
+    "description": "Hand-carved from solid English oak using a CNC router and finished by hand. Each piece has a unique grain pattern. Approx 40cm × 30cm. Comes ready to hang with concealed fixings.",
+    "price": 18500,
+    "currency": "GBP",
+    "images": [
+      "https://placehold.co/800x1000/E8E2D9/6E6B67?text=Oak+Wave"
+    ],
+    "category": "sculpture",
+    "stock": 2,
+    "dimensions": "40cm × 30cm × 3cm",
+    "material": "Solid English Oak"
+  },
+  {
+    "id": "hm-002",
+    "slug": "geometric-birch-panel",
+    "title": "Geometric Birch Panel",
+    "description": "A precision-cut geometric pattern milled into birch plywood. The relief depth creates dramatic shadow lines that shift throughout the day. Wax-finished. 50cm × 50cm.",
+    "price": 12500,
+    "currency": "GBP",
+    "images": [
+      "https://placehold.co/800x1000/E8E2D9/6E6B67?text=Birch+Panel"
+    ],
+    "category": "sculpture",
+    "stock": 3,
+    "dimensions": "50cm × 50cm × 2cm",
+    "material": "Birch Plywood"
+  },
+  {
+    "id": "hm-003",
+    "slug": "contour-landscape-walnut",
+    "title": "Contour Landscape — Walnut",
+    "description": "Topographic contours of the Lake District milled in layers of walnut veneer. A conversation piece for any wall. Limited run of 5. Signed and numbered.",
+    "price": 24000,
+    "currency": "GBP",
+    "images": [
+      "https://placehold.co/800x1000/E8E2D9/6E6B67?text=Walnut+Contour"
+    ],
+    "category": "sculpture",
+    "stock": 1,
+    "dimensions": "60cm × 40cm × 4cm",
+    "material": "Walnut Veneer on MDF"
+  }
+]
